@@ -1,8 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5EF8,100:2F80ED&height=180&text=7dul2&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=design%20%C3%97%20code&descAlignY=60&descSize=16" width="100%" alt="7dul2" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5EF8,100:2F80ED&height=180&text=7dul2&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=design%20%C3%97%20code&descAlignY=62&descSize=15" width="100%" alt="7dul2" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1400&color=2F80ED&center=true&vCenter=true&width=640&height=40&lines=%E6%8A%8A%E4%B8%9C%E8%A5%BF%E5%81%9A%E5%88%B0%E8%83%BD%E7%94%A8%EF%BC%8C%E5%86%8D%E5%81%9A%E5%88%B0%E5%A5%BD%E7%9C%8B;Agent+%E6%8F%92%E4%BB%B6+%C2%B7+%E7%A1%AC%E4%BB%B6+%C2%B7+%E5%B0%8F%E5%B7%A5%E5%85%B7;%E8%AE%BE%E8%AE%A1%E4%B8%8E%E4%BB%A3%E7%A0%81%E4%B9%8B%E9%97%B4%E6%9D%A5%E5%9B%9E%E6%A8%AA%E8%B7%B3" alt="typing" />
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=flat-square&logo=openjdk&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 
 </div>
 
@@ -14,20 +19,8 @@
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=flat-square&logo=openjdk&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-rust.vercel.app/api?username=7dul2&show_icons=true&hide_border=true&theme=transparent&title_color=2F80ED&icon_color=6D5EF8&text_color=1F2328&rank_icon=github&locale=cn" alt="stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=7dul2&hide_border=true&locale=zh&card_width=460&ring=6D5EF8&fire=2F80ED&currStreakLabel=2F80ED" alt="streak" />
+<img height="170" src="https://github-readme-stats-rust.vercel.app/api?username=7dul2&show_icons=true&hide_border=true&theme=transparent&title_color=2F80ED&icon_color=6D5EF8&text_color=1F2328&rank_icon=github&locale=cn" alt="stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=7dul2&theme=github" alt="languages" />
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=7dul2&theme=github" alt="contributions" />
 
