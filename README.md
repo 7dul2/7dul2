@@ -19,8 +19,12 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-rust.vercel.app/api?username=7dul2&show_icons=true&hide_border=true&theme=transparent&title_color=2F80ED&icon_color=6D5EF8&text_color=1F2328&rank_icon=github&locale=cn" alt="stats" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=7dul2&theme=github" alt="languages" />
+<table>
+<tr>
+<td><img height="160" src="https://github-readme-stats-rust.vercel.app/api?username=7dul2&show_icons=true&hide_border=true&theme=transparent&title_color=2F80ED&icon_color=6D5EF8&text_color=1F2328&rank_icon=github&locale=cn" alt="stats" /></td>
+<td><img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=7dul2&theme=github" alt="languages" /></td>
+</tr>
+</table>
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=7dul2&theme=github" alt="contributions" />
 
